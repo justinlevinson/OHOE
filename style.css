@@ -1,0 +1,35 @@
+body {
+	background-color:#CCC;
+}
+
+.container {
+	width: 960px;
+	margin: 0px auto;
+	background-color:#FFF;
+}
+
+.title {
+	margin:0px auto;
+}
+.category {
+}
+
+.category-title {
+	clear:both;
+}
+
+.category-pictures {
+}
+
+
+.picture {
+	float:left;
+	width: 85px;
+	margin-left:10px;
+	margin-bottom:10px;
+}
+
+.picture img {
+	width:85px;
+}
+
